@@ -1,5 +1,5 @@
 # nuxt-app
-
+- My very first nuxt app
 ## Build Setup
 
 ```bash
